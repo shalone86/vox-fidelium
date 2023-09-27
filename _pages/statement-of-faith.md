@@ -32,3 +32,5 @@ I firmly hold, then, and shall hold to my dying breath the belief of the Fathers
 ---
 
 ### If you agree with this Declaration of Faith, [CLICK HERE TO SIGN](https://forms.gle/qdLkui3nBQnTt17B6) and we will send it directly to your local bishop's email!
+
+> Please click the links below to share this site with your family and friends.
