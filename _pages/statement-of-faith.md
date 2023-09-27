@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /statement-of-faith
+permalink: /statement-of-faith/
 published: true
 ---
 #### Please join us by reading this entire Declaration of Faith and then fill out the form below. 
