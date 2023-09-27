@@ -3,7 +3,7 @@ layout: default
 permalink: /statement-of-faith/
 published: true
 ---
-#### Please join us by reading this entire Declaration of Faith and then fill out the form below. 
+## Please join us by reading this entire Declaration of Faith and then fill out the form below. 
 
 > If you are already familiar with the Declaration of Faith, [click here to sign now!](https://forms.gle/qdLkui3nBQnTt17B6)
  
