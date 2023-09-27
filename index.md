@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-# Vox Fidelium is a call to all faithful Catholics to raise our voices and proclaim our belief in the infallible teachings of the Church. Join us by signing a [*Declaration of Faith*](/#/statement-of-faith) or sharing this site with friends and family.
+# Vox Fidelium is a call to all faithful Catholics to raise our voices and proclaim our belief in the infallible teachings of the Church. Join us by signing a [*Declaration of Faith*](/vox-fidelium/statement-of-faith) or sharing this site with friends and family.
 ---
 >  **I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and by his appearing and his kingly power: proclaim the word; be persistent whether it is convenient or inconvenient; convince, reprimand, encourage through all patience and teaching. For the time will come when people will not tolerate sound doctrine but, following their own desires and insatiable curiosity, will accumulate teachers and will stop listening to the truth and will be diverted to myths.** *2 Timothy 4:1-4*
 
@@ -23,4 +23,4 @@ Rather than being opposed, the promoters of these changes in Church teachings ha
 #### The Official Handbook for the Synod on Synodality states:
  In a synodal Church the whole community, in the free and rich diversity of its members, is called together to pray, listen, analyse, dialogue, discern and offer advice on making pastoral decisions which correspond as closely as possible to God's will (ICT, Syn., 67-68). Genuine efforts must be made to ensure the inclusion of those at the margins or who feel excluded.
  
-Please join us. Answer the call, and raise your voice to proclaim our belief in the infallible teachings of the Church by signing the [Declaration of Faith](/#/statement-of-faith) or sharing this site with your friends and family by clicking the social links below.
+Please join us. Answer the call, and raise your voice to proclaim our belief in the infallible teachings of the Church by signing the [Declaration of Faith](/vox-fidelium/statement-of-faith) or sharing this site with your friends and family by clicking the social links below.
