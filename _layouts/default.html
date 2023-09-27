@@ -26,12 +26,12 @@
 
     <body>
         <main>
-            {% include share-buttons.html %}
+            
             <article>
                 {{ content }}
             </article>
         </main>
-
+{% include share-buttons.html %}
         <footer>
           <p class="copy">
             <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
@@ -41,7 +41,7 @@
             </small>
           </p>
 
-        {{ partial "share-buttons.html"  }}
+        
 
         </footer>
 
