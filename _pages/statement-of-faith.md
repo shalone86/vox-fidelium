@@ -3,9 +3,10 @@ layout: default
 permalink: /statement-of-faith/
 published: true
 ---
-## Please join us by reading this entire Declaration of Faith and then fill out the form below. 
+## Please Join us by Reading this Declaration of Faith and Signing the Form Below. 
 
-> If you are already familiar with the Declaration of Faith, [click here to sign now!](https://forms.gle/qdLkui3nBQnTt17B6)
+> If you are already familiar with the Declaration of Faith, [click here to sign now!](https://forms.gle/qdLkui3nBQnTt17B6)>
+---
  
 I firmly embrace and accept each and every definition that has been set forth and declared by the unerring teaching authority of the Church, especially those principle truths which are directly opposed to the errors of the day.
  
